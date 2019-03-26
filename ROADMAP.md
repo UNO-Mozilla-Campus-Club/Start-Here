@@ -4,21 +4,24 @@ Our vision is to work with students and instructors at the University of Nebrask
 ### What do we need to do?
 Please check out our [contribution guidelines]() and [code of conduct]() to help you get started, and the [README]() for an overview if you haven't read it yet!
 Put in a pull request to edit this document. Discussion about individual bullet points will occur in the issue forum. Please link the individual bullet points to issues.
-## Milestone: Create Introduction to GitHub Presentation and Activity
+## Todo: Create Introduction to GitHub Presentation and Activity
 * Research existing GitHub Tutorials
 * Create slides for presentation
 * Create Activity worksheets for students to follow along with and complete - * * creating a repository, forking, etc...
-## Milestone: Group Networking Event
+## Todo: Group Networking Event
 * Set date
 * Book space
 * Identify and Invite Speaker
 * Publicize Event
 * Make arrangements for food and drink
-## Milestone - Hacktoberfest Event
-* Set date
-* Book space
-* Identify and Invite Speaker
-* Publicize Event
-* Make arrangements for food and drink
-## Milestone - GitHub Plugin build
+## Todo: Website Build
+* Hackathon
+## Todo: GitHub Bot Deployment
 * Research GitHub Plug-ins
+* Hackthon
+## Todo: Hacktoberfest Event
+* Set date (October 2019)
+* Book space
+* Identify and Invite Speaker
+* Publicize Event
+* Make arrangements for food and drink
