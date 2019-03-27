@@ -16,7 +16,7 @@ Put in a pull request to edit this document. Discussion about individual bullet 
 * Make arrangements for food and drink
 ## Todo: Website Build
 * Hackathon
-* Plannning Doc - https://docs.google.com/document/d/1RksRzDRyL92W2DmLd3DaH1dDsf_wUWJH4v_6HJNMJUk/edit?usp=sharing
+* [Plannning Doc](https://docs.google.com/document/d/1RksRzDRyL92W2DmLd3DaH1dDsf_wUWJH4v_6HJNMJUk/edit?usp=sharing)
 * Issue https://github.com/UNO-Mozilla-Club/UNO-Mozilla-Club/issues/24
 ## Todo: GitHub Bot Deployment
 * Research GitHub Plug-ins
